@@ -10,6 +10,7 @@ npm start
 
 ## Project Structure
 
+```
 marvel-api/
 │
 ├── package.json
@@ -27,3 +28,4 @@ marvel-api/
     ├── tmdbService.js          # Access TMDB api
     ├── dedupCharacterNames.js  # Handle similar character name logic
     └── marvelService.js        # Business logic
+```
