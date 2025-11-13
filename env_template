@@ -1,0 +1,4 @@
+# customize and rename to .env
+
+TMDB_API_KEY=your_tmdb_api_key_here...
+PORT=3000
