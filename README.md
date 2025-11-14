@@ -28,7 +28,7 @@ marvel-api/
     ├── tmdbService.js          # Access TMDB api
     ├── dedupCharacterNames.js  # Handle similar character name logic
     └── marvelService.js        # Business logic
-
+```
 
 ## Unit tests
 
