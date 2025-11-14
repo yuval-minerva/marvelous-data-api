@@ -8,7 +8,7 @@ npm install
 npm start
 ```
 
-## Project Structure
+## Project Structure (without tests)
 
 marvel-api/
 │
@@ -27,3 +27,9 @@ marvel-api/
     ├── tmdbService.js          # Access TMDB api
     ├── dedupCharacterNames.js  # Handle similar character name logic
     └── marvelService.js        # Business logic
+
+
+## Unit tests
+
+Run using `npm run test` OR `npm run test:ui` which will open a browser window http://localhost:51204/__vitest__/
+
