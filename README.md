@@ -27,8 +27,8 @@ marvel-api/
 │   └── marvelRoutes.js         # Actual API routes / endpoint
 │
 └── services/
-    ├── tmdbService.js          # Access TMDB api
-    ├── dedupCharacterNames.js  # Handle similar character name logic
+    ├── tmdbService.js          # Access TMDB api and caching
+    ├── dedupCharacterNames.js  # Deduplicated similar character names
     └── marvelService.js        # Business logic
 ```
 
