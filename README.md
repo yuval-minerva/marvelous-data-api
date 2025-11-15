@@ -8,6 +8,8 @@ npm install
 npm start
 ```
 
+Browse to: http://localhost:3000 for a list of API endpoints.
+
 ## Project Structure (without tests)
 
 ```
