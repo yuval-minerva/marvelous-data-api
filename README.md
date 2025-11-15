@@ -34,5 +34,5 @@ marvel-api/
 
 ## Unit tests
 
-Run using `npm run test` OR `npm run test:ui` which will open a browser window http://localhost:51204/__vitest__/
+Run using `npm run test` OR `npm run test:ui` which will open a browser window http://localhost:51204/__vitest__/ with full dashboard and coverage report.
 
